@@ -1,4 +1,4 @@
-package org.acme.quickstart;
+package org.acme.quickstart.chapter3RestfulServices;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.POST;

@@ -1,4 +1,4 @@
-package org.acme.quickstart;
+package org.acme.quickstart.chapter3RestfulServices;
 
 import io.quarkus.vertx.http.runtime.filters.Filters;
 import io.quarkus.vertx.web.Route;

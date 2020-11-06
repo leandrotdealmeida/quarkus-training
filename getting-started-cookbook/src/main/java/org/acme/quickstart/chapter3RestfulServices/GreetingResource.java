@@ -1,6 +1,5 @@
-package org.acme.quickstart;
+package org.acme.quickstart.chapter3RestfulServices;
 
-import javax.print.attribute.standard.Media;
 import javax.validation.constraints.NotBlank;
 import javax.ws.rs.*;
 import javax.ws.rs.core.Context;

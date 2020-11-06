@@ -1,4 +1,4 @@
-package org.acme.quickstart;
+package org.acme.quickstart.chapter3RestfulServices;
 
 import javax.ws.rs.HttpMethod;
 import java.lang.annotation.*;
